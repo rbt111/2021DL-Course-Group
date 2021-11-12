@@ -1,6 +1,7 @@
 # 2021DL-Course-Group
 
 本仓库用于讨论李宏毅的ML2021Spring课程相关信息
+
 整体的时间安排框架按照[课件](https://github.com/Fafa-DL/Lhy_Machine_Learning)这里放的时间表来，具体的话按情况调整吧。
 
 有任何问题都可以提issue进行讨论。不过在提问前建议善用检索功能看看互联网上有没有答案或者这里有没有人提过相同的issue。
