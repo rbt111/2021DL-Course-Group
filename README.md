@@ -37,6 +37,7 @@
 有基础的请尽情加速，基本的东西都在链接里了
 
 相关资源：
+jupyter notebook快捷键使用指南：
 https://opus.konghy.cn/ipynb/jupyter-notebook-keyboard-shortcut.html
 
 
