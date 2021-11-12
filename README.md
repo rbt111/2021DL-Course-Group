@@ -21,6 +21,8 @@
  - 关注本仓库（这样所有issue的进度都会以邮件的形式同步到你的注册邮箱）
  - 在issue里找到注册issue，发下自己的姓名缩写和github账号注册邮箱（然后可以取消对该issue的关注，就不会收到后续邮件）
  - 学习怎么提issue（标签的使用、如何关注及取消关注某个特定issue）
+![image](https://user-images.githubusercontent.com/94154334/141459277-5cdc9ac4-cf79-49af-b6fc-553287adb662.png)
+
 
 2. 配置代码运行平台并熟悉操作（快捷键的使用），然后下载（或git clone）课件仓库到本地（或对应位置）
  - 谷歌colab
