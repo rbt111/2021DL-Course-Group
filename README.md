@@ -14,6 +14,13 @@
 
 **Please feel free to edit any part of this page😉**
 
+## Week 2 11/22-11/28
+
+1. 视频第二节（bilibili P10-P19）
+2. HW1 改进（至少要Private LeaderBoard上比Medium Baseline强吧）
+3. *HW2 （可选）
+
+
 ## Week 1 11/12-11/20
 
 1. 基本使用
@@ -40,10 +47,6 @@
 - [jupyter notebook快捷键使用指南](https://opus.konghy.cn/ipynb/jupyter-notebook-keyboard-shortcut.html)
 
 
-## Week 2 11/22-11/28
-
-1. 视频第二节（bilibili P10-P19）
-2. HW2
 
 
 
