@@ -21,8 +21,10 @@
 ## Week 2 11/22-11/28
 
 1. 视频第二节（bilibili P10-P19） 4h+4h
-2. HW1 改进（至少要Private LeaderBoard上比Medium Baseline强吧） 4h
-3. *HW2 （可选）
+2. （HW1 至少要Private LeaderBoard上比Medium Baseline强吧）
+3. HW2
+
+之后会找些别的比赛作为作业，李宏毅开的那几个结束了以后新提交就不会上Leaderboard了
 
 
 ## Week 1 11/12-11/20
