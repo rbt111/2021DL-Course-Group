@@ -20,7 +20,7 @@
 
 ## Week 3 11/29-12/05
 1. 视频第三节（记得看选修部分）
-2. HW3和HW4改成这个天池的比赛 https://tianchi.aliyun.com/competition/entrance/531887/introduction
+2. HW3和HW4改成[这个天池的比赛](https://tianchi.aliyun.com/competition/entrance/531887/introduction) 两周时间？
 
 
 ## Week 2 11/22-11/28
