@@ -18,6 +18,10 @@
 - [《Pattern Recognition and Machine Learning》](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)/[中文版](https://github.com/wwkenwong/book/blob/master/PRML%E4%B8%AD%E6%96%87%E7%89%88_%E6%A8%A1%E5%BC%8F%E8%AF%86%E5%88%AB%E4%B8%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf)
 - [《深度学习》](https://github.com/exacity/deeplearningbook-chinese)
 
+## Week 5 12/13-12-19
+1.视频 下一节 Transformer
+2.参考课件中HW4的代码和要求，用Week3天池比赛的数据进行Transformer的实验
+
 ## Week 4 12/06-12/12
 
 休息一周？可以继续做做那个天池的比赛
