@@ -19,8 +19,8 @@
 - [《深度学习》](https://github.com/exacity/deeplearningbook-chinese)
 
 ## Week 5 12/13-12-19
-1.视频 下一节 Transformer
-2.参考课件中HW4的代码和要求，用Week3天池比赛的数据进行Transformer的实验
+1. 视频 下一节 Transformer
+2. 参考课件中HW4的代码和要求，用Week3天池比赛的数据进行Transformer的实验
 
 ## Week 4 12/06-12/12
 
