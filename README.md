@@ -12,11 +12,11 @@
 - [课件等资料](https://github.com/Fafa-DL/Lhy_Machine_Learning)
 - [bilibili课程视频](https://www.bilibili.com/video/BV1Wv411h7kN)
 
-**Please feel free to edit any part of this page😉**
-
 参考书目：
 - [《Pattern Recognition and Machine Learning》](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)/[中文版](https://github.com/wwkenwong/book/blob/master/PRML%E4%B8%AD%E6%96%87%E7%89%88_%E6%A8%A1%E5%BC%8F%E8%AF%86%E5%88%AB%E4%B8%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf)
 - [《深度学习》](https://github.com/exacity/deeplearningbook-chinese)
+
+**Please feel free to edit any part of this page😉**
 
 ## Week 6 12/20-12/26
 1. 视频下一节 生成式模型 P40-P46 7h
